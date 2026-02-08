@@ -15,6 +15,6 @@ Through this project, I gained hands-on experience with:
 - Comparing stateless vs stateful AI behavior  
 - Debugging real-world GenAI pipelines  
 
-Overall, this work helped me better understand how modern language systems combine retrieval, reasoning, and memory to support user-centered applications. It also reinforced the importance of context persistence when building practical conversational AI — especially in sensitive domains like healthcare.
+Overall, this work helped me better understand how modern language systems combine retrieval, reasoning, and memory to support user-centered applications. It also reinforced the importance of context persistence when building practical conversational AI --- especially in sensitive domains like healthcare.
 
-This project reflects my broader interest in applied machine learning and language technologies, and I’m excited to continue building systems that are not just intelligent, but genuinely helpful and human-centered.
+This project gave me hands-on experience in applied machine learning and language technologies, and I’m excited to continue building systems that are not just intelligent, but genuinely helpful and human-centered.
